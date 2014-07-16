@@ -1,0 +1,25 @@
+Todo List for EnderThingsMod
+
+--create a real todo list by sunday 7/20/2014
+
+
+ITEMS
+    Enderic Talisman
+VEHICLES
+    offroad vehicle-allows easy movement through hilly terrain
+    sports car-fast but requires pavement to drive on
+    plane-allows you to fly-requres hanger to store, requires hanger to upgrade,requires runway to take off and land
+FOOD
+    enderic apple-reduces damage taken by 50%
+    
+ARMOR
+    Ender Armor (set bonus=teleportation)
+WEAPONS/TOOLS
+    basic tools/weps with ender ingots
+MACHINES
+    Enderic Infuser-Infuses things with Enderic Properties
+World Gen
+    special trees in end
+    ore in end and overworld that need to be infused together
+    
+    
