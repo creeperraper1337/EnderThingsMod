@@ -5,21 +5,33 @@ Todo List for EnderThingsMod
 
 ITEMS
     Enderic Talisman
+    Engine(crafting only)
+    Left wing(crafting only,multiblock)
+    Right wing(crafting only,multiblock)
+    Cockpit(crafting only,multiblock)
+    Tire(crafting only,multiblock)
+    Ender Sticks
+    Ender Ingots
+    Enderic Shards
+    
+    
 VEHICLES
     offroad vehicle-allows easy movement through hilly terrain
     sports car-fast but requires pavement to drive on
     plane-allows you to fly-requres hanger to store, requires hanger to upgrade,requires runway to take off and land
+    helicopter-allows you to fly-requires helipad,requires hanger to upgrade,requires helipad to take off and land
 FOOD
     enderic apple-reduces damage taken by 50%
+    enderic bread-increases passive healing by 50%
     
 ARMOR
     Ender Armor (set bonus=teleportation)
 WEAPONS/TOOLS
     basic tools/weps with ender ingots
+    Enderic Staff
 MACHINES
-    Enderic Infuser-Infuses things with Enderic Properties
+    Enderic Infuser-Infuses things with Enderic Properties uses ender pearls as fuel.
 World Gen
     special trees in end
     ore in end and overworld that need to be infused together
-    
-    
+    ender vendors to collect "coins"
